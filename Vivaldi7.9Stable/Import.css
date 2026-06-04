@@ -23,8 +23,8 @@
 
 /* underActiveDev */
 /*@import "CSS/VivalArc.css";*/
-/*@import "CSS/FavouriteTabs.css";*/
-/*@import "CSS/SmoothPanel.css";*/
+@import "CSS/FavouriteTabs3x2.css";
+/*@import "CSS/FavouriteTabs3x3.css";*/
 
 /* Abandoned */
 /*@import "CSS/ArcFolder.css";*/
@@ -157,5 +157,5 @@ svg.svg-tab-stack{
 }
 
 .tab-wrapper.extended.in-accordion{
-  
+
 } */
